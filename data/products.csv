@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price,supplier_id,reorder_point,safety_stock
+P001,Smartphone A,Mobile,18000,S001,500,250
+P002,Laptop Pro,Computing,65000,S002,200,100
+P003,Wireless Earbuds,Audio,3500,S001,800,400
+P004,Tablet X,Computing,28000,S002,300,150
+P005,Smart TV 4K,Display,45000,S003,150,75
+P006,Gaming Console,Gaming,35000,S004,100,50
+P007,Smartwatch,Wearable,8000,S001,400,200
+P008,Power Bank,Accessories,1500,S005,1000,500

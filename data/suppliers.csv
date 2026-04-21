@@ -1,0 +1,6 @@
+supplier_id,supplier_name,country,reliability_score,avg_lead_time_days,on_time_delivery_pct,quality_rating
+S001,TechParts Asia,China,4.2,25,85,4.1
+S002,GlobalChip Co.,Taiwan,4.7,20,92,4.6
+S003,ElectroSupply Ltd,South Korea,4.0,30,78,3.9
+S004,Pacific Components,Japan,4.5,22,90,4.4
+S005,CoreTech India,India,3.8,15,88,3.7
